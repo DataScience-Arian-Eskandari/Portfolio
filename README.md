@@ -35,7 +35,7 @@ Welcome to my Data Science Portfolio! This repository showcases a selection of d
 
 3. **Sentiment Analysis of Posts in a Webforum**
    - **Description**: Conducted Sentiment Analysis on web forum posts using R to assess user opinions and emotions.  
-   - **Notebook**: [notebooks/project-3/nlp.ipynb](notebooks/project-3/nlp.ipynb)  
+   - **Notebook**: [Web_forum_analysis/Web_forum_analysis/Report.pdf](Web_forum_analysis/Web_forum_analysis/Report.pdf)  
    - **Highlights**:
      - Analyse activity and language on the forum over time
      - Analyse the language used by threads
