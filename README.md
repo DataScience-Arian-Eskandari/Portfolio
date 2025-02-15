@@ -37,8 +37,9 @@ Welcome to my Data Science Portfolio! This repository showcases a selection of d
    - **Description**: Conducted Sentiment Analysis on web forum posts using R to assess user opinions and emotions.  
    - **Notebook**: [notebooks/project-3/nlp.ipynb](notebooks/project-3/nlp.ipynb)  
    - **Highlights**:
-     - Tokenization, TF-IDF vectorization, building a Naive Bayes classifier.  
-     - Evaluating model performance with precision, recall, F1-score.  
+     - Analyse activity and language on the forum over time
+     - Analyse the language used by threads
+     - Analyse social networks online:
    - **Key Skills**: R, NLP, scikit-learn, data preprocessing.
 
 
