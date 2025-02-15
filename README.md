@@ -18,7 +18,7 @@ Welcome to my Data Science Portfolio! This repository showcases a selection of d
 
 1. **Market Research Analysis: Superannuation Fund Performance**
    - **Description**: a comprehensive market research project to analyze the performance of various superannuation funds using python and statistical methods.
-   - **Notebook**: Super_analysis/Super_analysis.ipynb
+   - **Notebook**: [Portfolio/Super_analysis/Super_analysis.ipynb](Portfolio/Super_analysis/Super_analysis.ipynb)
    - **Highlights**: 
      - Performed exploratory data analysis (EDA) to find top performers.  
      - highlighting competitive advantages and areas for improvement, aimed at enhancing fund strategies.
