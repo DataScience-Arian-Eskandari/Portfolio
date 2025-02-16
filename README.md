@@ -32,9 +32,9 @@ Welcome to my Data Science Portfolio! This repository showcases a selection of d
   
    - **Notebook**: [Weather_forecast/Weather_forecast.pdf](Weather_forecast/Weather_forecast.pdf)  
    - **Highlights**:
-      -Data cleaning and feature engineering (handling missing values, outlier detection, categorical encoding).
-      -Utilized classification methods (e.g., Naive Bayes, random forest) to determine temperature increase likelihood.
-      -Performed exploratory data analysis and data visualization to identify trends and patterns in the weather data.
+      - Data cleaning and feature engineering (handling missing values, outlier detection, categorical encoding).
+      - Utilized classification methods (e.g., Naive Bayes, random forest) to determine temperature increase likelihood.
+      - Performed exploratory data analysis and data visualization to identify trends and patterns in the weather data.
    - **Key Skills**:  R, tidyverse, caret, ggplot2.
 
 
@@ -53,11 +53,11 @@ Welcome to my Data Science Portfolio! This repository showcases a selection of d
    - **Notebook**: [https://datascience-arian-eskandari.github.io/Population_density/final-html.html] (https://datascience-arian-eskandari.github.io/Population_density/final-html.html)
      ***(Please change zoom to fit your screen)***
    - **Highlights**:
-    - Created geospatial maps to compare population densities around the world and their impact on urban planning.
-    - Visualized correlations between population density, house prices, and private energy consumption using scatter plots.
-    - Illustrated public transport networks in cities (e.g., Singapore and Melbourne) to demonstrate how density affects accessibility and travel efficiency.
-    - Explored the societal and intangible toll of low-density living, including effects on community interaction and well-being.
-    - Key Skills: Vega-Lite, Tableau, data visualization, geospatial analysis, storytelling with data.
+     - Created geospatial maps to compare population densities around the world and their impact on urban planning.
+     - Visualized correlations between population density, house prices, and private energy consumption using scatter plots.
+     - Illustrated public transport networks in cities (e.g., Singapore and Melbourne) to demonstrate how density affects accessibility and travel efficiency.
+     - Explored the societal and intangible toll of low-density living, including effects on community interaction and well-being.
+     - Key Skills: Vega-Lite, Tableau, data visualization, geospatial analysis, storytelling with data.
 
 
 
