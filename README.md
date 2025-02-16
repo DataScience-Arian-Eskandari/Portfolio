@@ -24,14 +24,15 @@ Welcome to my Data Science Portfolio! This repository showcases a selection of d
      - highlighting competitive advantages and areas for improvement, aimed at enhancing fund strategies.
    - **Key Skills**: Python, pandas, scikit-learn, data visualization, model evaluation.
 
-2. **Real-Time Data Analytics Platform**
-   - **Description**:  a real-time data analytics platform. demonstrated its ability to deliver valuable insights from real-time data streams by utilising Python for data analysis and visualisation, Apache Spark for real-time data processing, and Apache Kafka for data intake.
+2. **Temperature Increase Prediction Model**
+   - **Description**:  developed a model to predict whether tomorrow will be warmer than today for 10 locations in Australia. Leveraged historical weather data and applied various statistical and machine learning techniques in R to forecast daily temperature changes.
   
    - **Notebook**: [notebooks/project-2/model.ipynb](notebooks/project-2/model.ipynb)  
    - **Highlights**:
-     - Data cleaning and feature engineering (handling missing data, outliers, encoding).  
-     - Gradient boosting and random forest regressors for final models.  
-   - **Key Skills**: Python, Apache Spark, matplotlib.
+      -Data cleaning and feature engineering (handling missing values, outlier detection, categorical encoding).
+      -Utilized classification methods (e.g., Naive Bayes, random forest) to determine temperature increase likelihood.
+      -Performed exploratory data analysis and data visualization to identify trends and patterns in the weather data.
+   - **Key Skills**:  R, tidyverse, caret, ggplot2.
 
 3. **Sentiment Analysis of Posts in a Webforum**
    - **Description**: Conducted Sentiment Analysis on web forum posts using R to assess user opinions and emotions.  
