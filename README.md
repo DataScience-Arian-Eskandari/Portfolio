@@ -27,7 +27,7 @@ Welcome to my Data Science Portfolio! This repository showcases a selection of d
 2. **Temperature Increase Prediction Model**
    - **Description**:  developed a model to predict whether tomorrow will be warmer than today for 10 locations in Australia. Leveraged historical weather data and applied various statistical and machine learning techniques in R to forecast daily temperature changes.
   
-   - **Notebook**: [notebooks/project-2/model.ipynb](notebooks/project-2/model.ipynb)  
+   - **Notebook**: [Weather_forecast/Weather_forecast.pdf](Weather_forecast/Weather_forecast.pdf)  
    - **Highlights**:
       -Data cleaning and feature engineering (handling missing values, outlier detection, categorical encoding).
       -Utilized classification methods (e.g., Naive Bayes, random forest) to determine temperature increase likelihood.
