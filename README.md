@@ -41,16 +41,23 @@ Welcome to my Data Science Portfolio! This repository showcases a selection of d
      - Analyse social networks online:
    - **Key Skills**: R, NLP, scikit-learn, data preprocessing.
 
+4. **Population Density and Urban Growth Visualization**
+   - **Description:**: A data visualization project examining how population density influences city development—whether cities should expand horizontally or vertically. Employed both the Vega-Lite library and Tableau to create interactive maps and diagrams that highlight relationships between population density, house prices, energy usage, and public transport infrastructure across different cities worldwide.
+   - **Notebook**: [https://datascience-arian-eskandari.github.io/Population_density/final-html.html] (https://datascience-arian-eskandari.github.io/Population_density/final-html.html)
+   - **Highlights**:
+    - Created geospatial maps to compare population densities around the world and their impact on urban planning.
+    - Visualized correlations between population density, house prices, and private energy consumption using scatter plots.
+    - Illustrated public transport networks in cities (e.g., Singapore and Melbourne) to demonstrate how density affects accessibility and travel efficiency.
+    - Explored the societal and intangible toll of low-density living, including effects on community interaction and well-being.
+    - Key Skills: Vega-Lite, Tableau, data visualization, geospatial analysis, storytelling with data.
+
 
 ## Technologies and Tools
 
-- **Programming Languages**: Python
+- **Programming Languages**: Python, R, Tableau
 - **Data Analysis/ML Libraries**: pandas, NumPy, scikit-learn, TensorFlow/PyTorch
-- **Visualization**: matplotlib, seaborn, Plotly
+- **Visualization**: matplotlib, seaborn, Plotly, Tableau
 - **Notebooks**: Jupyter Notebook, Google Colab
 - **Version Control**: Git, GitHub
 
----
-
-## Project Structure
 
