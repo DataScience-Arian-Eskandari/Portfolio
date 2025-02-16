@@ -25,6 +25,7 @@ Welcome to my Data Science Portfolio! This repository showcases a selection of d
      - Performed exploratory data analysis (EDA) to find top performers.  
      - highlighting competitive advantages and areas for improvement, aimed at enhancing fund strategies.
    - **Key Skills**: Python, pandas, scikit-learn, data visualization, model evaluation.
+     
 
 2. **Temperature Increase Prediction Model**
    - **Description**:  developed a model to predict whether tomorrow will be warmer than today for 10 locations in Australia. Leveraged historical weather data and applied various statistical and machine learning techniques in R to forecast daily temperature changes.
@@ -36,6 +37,7 @@ Welcome to my Data Science Portfolio! This repository showcases a selection of d
       -Performed exploratory data analysis and data visualization to identify trends and patterns in the weather data.
    - **Key Skills**:  R, tidyverse, caret, ggplot2.
 
+
 3. **Sentiment Analysis of Posts in a Webforum**
    - **Description**: Conducted Sentiment Analysis on web forum posts using R to assess user opinions and emotions.  
    - **Notebook**: [Web_forum_analysis/Report.pdf](Web_forum_analysis/Report.pdf)  
@@ -44,16 +46,19 @@ Welcome to my Data Science Portfolio! This repository showcases a selection of d
      - Analyse the language used by threads
      - Analyse social networks online:
    - **Key Skills**: R, NLP, scikit-learn, data preprocessing.
+     
 
 4. **Population Density and Urban Growth Visualization**
    - **Description:**: A data visualization project examining how population density influences city development—whether cities should expand horizontally or vertically. Employed both the Vega-Lite library and Tableau to create interactive maps and diagrams that highlight relationships between population density, house prices, energy usage, and public transport infrastructure across different cities worldwide.
    - **Notebook**: [https://datascience-arian-eskandari.github.io/Population_density/final-html.html] (https://datascience-arian-eskandari.github.io/Population_density/final-html.html)
+     ***(Please change zoom to fit your screen)***
    - **Highlights**:
     - Created geospatial maps to compare population densities around the world and their impact on urban planning.
     - Visualized correlations between population density, house prices, and private energy consumption using scatter plots.
     - Illustrated public transport networks in cities (e.g., Singapore and Melbourne) to demonstrate how density affects accessibility and travel efficiency.
     - Explored the societal and intangible toll of low-density living, including effects on community interaction and well-being.
     - Key Skills: Vega-Lite, Tableau, data visualization, geospatial analysis, storytelling with data.
+
 
 
 ## Technologies and Tools
