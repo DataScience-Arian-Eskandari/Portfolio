@@ -57,7 +57,7 @@ Welcome to my Data Science Portfolio! This repository showcases a selection of d
      - Visualized correlations between population density, house prices, and private energy consumption using scatter plots.
      - Illustrated public transport networks in cities (e.g., Singapore and Melbourne) to demonstrate how density affects accessibility and travel efficiency.
      - Explored the societal and intangible toll of low-density living, including effects on community interaction and well-being.
-     - Key Skills: Vega-Lite, Tableau, data visualization, geospatial analysis, storytelling with data.
+   - **Key Skills**: Vega-Lite, Tableau, data visualization, geospatial analysis, storytelling with data.
 
 
 
