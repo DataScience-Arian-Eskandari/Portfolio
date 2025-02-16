@@ -8,9 +8,7 @@ Welcome to my Data Science Portfolio! This repository showcases a selection of d
 
 - [Projects](#projects)
 - [Technologies and Tools](#technologies-and-tools)
-- [Project Structure](#project-structure)
-- [Setup Instructions](#setup-instructions)
-- [About Me](#about-me)
+
 
 ---
 
