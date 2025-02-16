@@ -2,6 +2,8 @@
 
 Welcome to my Data Science Portfolio! This repository showcases a selection of data science projects I've worked on, demonstrating skills in data cleaning, exploratory data analysis, machine learning, and data visualization.
 
+Name: Arian Eskandari
+Linkedin: https://www.linkedin.com/in/arian-eskandari/
 ---
 
 ## Table of Contents
